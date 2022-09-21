@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<!--
-<a href="https://github.com/gutooriba">
-  <img align="center" src=["https://github-readme-stats.vercel.app/api?username=gutooriba&theme=default)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api?username=gutooriba&theme=default)](https://github.com/anuraghazra/github-readme-stats))" />
-</a>
+# Gustavo
+
 **gutooriba/gutooriba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h1 style="color:green; background-color:red">Gustavo</h1>
 
 Here are some ideas to get you started:
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
