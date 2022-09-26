@@ -1,23 +1,25 @@
-### Hi there 👋
+<h1 style="color: black; background-color:blue">Gustavo Ribeiro
 
-# Gustavo
+<h3 style="color:white; background-color:dark">Hobbies favoritos:</h2>
 
-**gutooriba/gutooriba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Boxe
+- Mountain Bike
+- Violão
+- Corrida de Rua
+- Veloterra
 
-<h1 style="color:green; background-color:red">mudou</h1>
+<h3 style="color:white; background-color:dark">Formação:</h3>
 
-#metta Tecnologias
+- Cursando Engenharia da Computação_ Universidade Federal do pampa
+- Cursando Full Stack Web Dev, no programa Starter junto a GROWDEV
 
-<h2 style="color:blue; background-color:dark">change</h2>
+<h3 style="color:white; background-color:dark">Experiências Profissionais:</h3>
 
-Here are some ideas to get you started:
+-São aproximadamente 15 anos trabalhando com segurança eletrônica, rede de computadores, portarias virtuais, interfonia, voip, telecomunicações em geral. Hoje tenho minha micro-empresa no ramo de venda e prestação de serviços em todo portfólio de produtas da fábrida da INTELBRAS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<h3 style="color:white; background-color:dark">Linguagem de Programação Favorita:</h3>
+
+-Tenho alguma familiaridade com a linguagem C, pois é a que sempre foi ministrada como linguagem na universidade. 
+
+
+
