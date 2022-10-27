@@ -1,6 +1,7 @@
 <h1 style="color: black; background-color:blue">Gustavo Ribeiro
 
 <h3 style="color:white; background-color:dark">Hobbies favoritos:</h2>
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 - Boxe
 - Mountain Bike
