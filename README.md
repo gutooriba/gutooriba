@@ -19,7 +19,12 @@
 
 <h3 style="color:white; background-color:dark">Linguagem de Programação Favorita:</h3>
 
--Tenho alguma familiaridade com a linguagem C, pois é a que sempre foi ministrada como linguagem na universidade. 
+-Linguagem de Programação C
+-Html
+-Css
+-Javascript
+-Nodejs
+  
 
 
 
