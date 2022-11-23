@@ -1,5 +1,6 @@
 # 💫 About Me:
-- Cursando Engenharia da Computação_ Universidade Federal do pampa<br>-Cursando Full Stack Web Dev GROWDEV<br>-São aproximadamente 15 anos trabalhando com segurança eletrônica,<br> rede de computadores, portarias virtuais, interfonia, voip, telecomunicações em geral.<br>- Hoje tenho minha microempresa no ramo de venda e prestação de serviços em todo portfólio de produtas da fábrida da INTELBRAS.
+- Cursando Engenharia da Computação_ Universidade Federal do pampa<br>-Cursando Full Stack Web Dev GROWDEV<br>-São aproximadamente 15 anos trabalhando com segurança eletrônica,<br> rede de computadores, portarias virtuais, interfonia, voip, telecomunicações em geral.<br>- Hoje tenho minha microempresa no ramo de venda e prestação de serviços em todo portfólio de produtos  INTELBRAS.
+- Focado no atendimento diferenciado, criando soluçoes inteligentes, entregando valor e empatia!
 
 
 ## 🌐 Socials:
