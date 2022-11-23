@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cursando Engenharia da Computação_ Universidade Federal do pampa<br>Cursando Full Stack Web Dev, no programa Starter junto a GROWDEV<br>-São aproximadamente 15 anos trabalhando com segurança eletrônica,<br> rede de computadores, portarias virtuais, interfonia, voip, telecomunicações em geral.<br> Hoje tenho minha microempresa no ramo de venda e prestação de serviços em todo portfólio de produtas da fábrida da INTELBRAS.<br>Linguagem de Programação C -Html -Css -Javascript -Nodejs-React
+- Cursando Engenharia da Computação_ Universidade Federal do pampa<br>-Cursando Full Stack Web Dev GROWDEV<br>-São aproximadamente 15 anos trabalhando com segurança eletrônica,<br> rede de computadores, portarias virtuais, interfonia, voip, telecomunicações em geral.<br>- Hoje tenho minha microempresa no ramo de venda e prestação de serviços em todo portfólio de produtas da fábrida da INTELBRAS.
 
 
 ## 🌐 Socials:
